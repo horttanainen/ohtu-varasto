@@ -1,2 +1,2 @@
-Pari riviä tekstiä.
+Pari riviä muokattua tekstiä.
 Tässä se toinen rivi.
